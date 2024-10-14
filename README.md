@@ -1,6 +1,6 @@
 # Breakdance Navigator
 
-[![Watch the video](https://peterkulcsar.dev/wp-content/uploads/breakdance-navigator/breakdance-navigator-github-image.JPG)](https://www.berrycast.com/conversations/ad0069af-db6d-54f4-8aac-b1d5ce7cac1b)
+[![Watch the video](https://peterkulcsar.dev/wp-content/uploads/breakdance-navigator/breakdance-navigator-fb-post-opt.jpg)](https://www.berrycast.com/conversations/ad0069af-db6d-54f4-8aac-b1d5ce7cac1b)
 
 The **Breakdance Navigator** adds a quick-access navigator to the WordPress admin bar. It allows easy access to Breakdance templates, headers, footers, global blocks, popups, and pages edited with Breakdance, along with other essential settings.
 
