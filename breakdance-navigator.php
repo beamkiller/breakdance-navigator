@@ -2,7 +2,7 @@
 /*
 Plugin Name: Breakdance Navigator
 Plugin URI: https://github.com/beamkiller/breakdance-navigator
-Description: Adds a navigator to the admin bar for quick access to Breakdance templates, headers, footers, global blocks, popups, and pages edited with Breakdance, among other items.
+Description: Adds a quick-access navigator to the WordPress admin bar. It allows easy access to Breakdance templates, headers, footers, global blocks, popups, and pages edited with Breakdance, along with other essential settings.
 Version: 1.1
 Author: Peter Kulcsár
 Author URI: https://peterkulcsar.dev/
