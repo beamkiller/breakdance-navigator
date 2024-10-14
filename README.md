@@ -7,8 +7,8 @@ The **Breakdance Navigator** adds a quick-access navigator to the WordPress admi
 ### Tested Compatibility
 - **Breakdance**: 2.1.0-rc.1
 - **Headspin**: 1.2.3
-- **WordPress**: 6.2.2
-- **PHP**: 8.3.12
+- **WordPress**: 6.6.2
+- **PHP**: 8.3.11
 
 ---
 
